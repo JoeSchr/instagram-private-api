@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/juliangruber/constants-browserify
+	branch = master
+	commit = e0ee990c75f3a0b3275e6bb2e3ff4d5d169d1b9d
+	parent = e4ed8e3e50d3a41ab0a92e2de926da0a7d127b1d
+	cmdver = 0.3.1
